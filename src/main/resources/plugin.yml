@@ -1,0 +1,11 @@
+name: TreasureBackup
+version: '${version}'
+main: it.dominick.tbackup.TreasureBackup
+api-version: 1.13
+authors: [ Dominick12 ]
+
+commands:
+  backupnow:
+    description: Avvia manualmente un backup.
+    usage: /backupnow
+    permission: treasurebackup.backupnow

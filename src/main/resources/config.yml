@@ -1,0 +1,4 @@
+# Configurazione del plugin di backup
+backup:
+  # Ora di esecuzione del backup (valore predefinito: 3)
+  backupHour: 3
